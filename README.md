@@ -5,10 +5,8 @@ _Server-Side APIs Challenge: Weather Dashboard_
 * Use the 5 Day Weather ForecastLinks to an external site. to retrieve weather data for cities. The base URL should look like the following: https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}. After registering for a new API key, you may need to wait up to 2 hours for that API key to activate.
 
 ## Links
-* Live URL 
-
-* Portfolio:
-[MC Bariekman](https://mcbariekman.github.io/bariekman_portfolio/)
+* [Live](https://mcbariekman.github.io/weather-dashboard-challenge/)
+* [Portfolio](https://mcbariekman.github.io/bariekman_portfolio/)
 
 ## Usage
 ![Live Page](./assets/usage.png)
