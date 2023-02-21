@@ -7,7 +7,7 @@ _Server-Side APIs Challenge: Weather Dashboard_
 ## Links
 * Live URL 
 
-* Portfolio
+* Portfolio:
 [MC Bariekman](https://mcbariekman.github.io/bariekman_portfolio/)
 
 ## Usage
