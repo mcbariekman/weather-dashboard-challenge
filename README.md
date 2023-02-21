@@ -7,5 +7,6 @@ _Server-Side APIs Challenge: Weather Dashboard_
 * [Portfolio](https://mcbariekman.github.io/bariekman_portfolio/)
 
 ## Usage
+* Use the search bar to type a particular city of which you wish to know the weather forecast of. Then press the Search button--the page will then display the next five days weather forecast of that city.
 ![Live Page](./assets/usage.png)
 
